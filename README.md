@@ -1,3 +1,3 @@
 # Jumpin-Jerry
 
-David is a fucking bastard bitch
+These are the assets for my game that I made for my sister
